@@ -1,5 +1,7 @@
 # VectorShift Pipeline Builder
+## Output Preview
 
+![Pipeline Output](screenshots/output.png)
 A visual pipeline builder application that allows you to create, connect, and analyze node-based workflows.
 
 ## Features
